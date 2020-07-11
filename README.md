@@ -1,1 +1,1 @@
-# Pygame-Tutorials
+# Pygame Tutorials
